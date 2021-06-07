@@ -5,7 +5,7 @@
 * `Fast sms bomber for termux as well as linux`
 
 ## Warning
-* This tool is for educational purpose only,don't trynna misuse it!!
+* `This tool is for educational purpose only,don't trynna misuse it!!`
 
 ## About this tool
 * `Fast messaging service`
@@ -29,7 +29,7 @@ python3 newbomb.py
 ```
 
 ## News
-* We are currently working on it and will upload the upgraded version soon
+* `We are currently working on it and will upload the upgraded version soon`
 * `v2.0`
 * `Works on python3`
 
