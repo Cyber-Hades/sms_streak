@@ -35,5 +35,5 @@ python3 newbomb.py
 ## Screenshot (kali os)
 <br>
 <p align="center">
-<img width="50%" src="Screenshot.png"/>
+<img width="100%" src="Screenshot.png"/>
 </p>
