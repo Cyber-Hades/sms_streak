@@ -25,6 +25,7 @@ go to sms_streak directory
 ```bash
 cd sms_streak
 python3 newbomb.py
+```
 
 ## News
 * We are currently working on it and will upload the upgraded version soon
