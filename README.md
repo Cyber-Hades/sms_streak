@@ -1,7 +1,7 @@
 <h1 align="center">SMS STREAK v1.0
   <img src="index.jpeg"><br>
   </h1>
-* `Fast sms bomber for termux as well as linux`
+* Fast sms bomber for termux as well as linux
 
 ## Warning
 * This tool is for educational purpose only,don't trynna misuse it!!
@@ -34,5 +34,5 @@ python3 newbomb.py
 ## Screenshot (kali os)
 <br>
 <p align="center">
-<img width="50%" src="Screenshot.png">
+<img width="50%" src="Screenshot.png"/>
 </p>
